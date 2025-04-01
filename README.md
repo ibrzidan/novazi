@@ -8,11 +8,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Yayasan Sagasitas Indonesia](https://www.instagram.com/sagasitas.official/)**
+- 🔭 I’m currently working on **[SG-EDTS](http://sg-edts.com/)**
 
-- 🌱 I enjoy exploring **Machine Learning models, Data Analytics, Data Structures and Algorithms, as well as AWS Cloud Computing.**
+- 🌱 I enjoy exploring **Data Engineering, Machine Learning models, Data Analytics, Data Structures and Algorithms, as well as AWS and GCP.**
 
-- 👯 I’m a **Team Player**
+- 👯 I’m a **Data Engineer**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://novazidaneibrahim.nicepage.io)**
 
