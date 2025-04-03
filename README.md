@@ -1,16 +1,16 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Zidan</h1>
-<h3 align="center">I'm a data scientist intern who is deeply dedicated to extracting valuable insights and discerning data patterns in order to facilitate data-informed decision-making.</h3>
+<h3 align="center">I'm a Data Engineer who is deeply dedicated to extracting valuable insights and discerning data patterns in order to facilitate data-informed decision-making.</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;Machine%20Learning%20Engineer;Data%20Analyst;AWS%20Cloud%20Computing%20Trainer&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Engineer;Machine%20Learning%20Engineer;Data%20Analyst;AWS%20Cloud%20Computing%20Trainer&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Yayasan Sagasitas Indonesia](https://www.instagram.com/sagasitas.official/)**
+- 🔭 I’m currently working on **[SG-EDTS](https://www.sg-edts.com/)**
 
-- 🌱 I enjoy exploring **Machine Learning models, Data Analytics, Data Structures and Algorithms, as well as AWS Cloud Computing.**
+- 🌱 I enjoy exploring **Data Engineering, Machine Learning models, Data Analytics, Data Structures and Algorithms, as well as GCP and AWS.**
 
 - 👯 I’m a **Team Player**
 
